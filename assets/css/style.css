@@ -1,7 +1,26 @@
+.character {
+margin: 50px 0px 50px 0px;
+
+
+}
+
+.header {
+    background-color:white;
+    border-bottom: 2px solid;
+    border-bottom-color:rgb(137, 137, 139);
+}
+
 body {
-    background-image:URL('../images/Bus-stop.jpg');
-    background-repeat: no-repeat;
-    background-size:100%;
-    
+    background-color:;
+}
+
+.footer {
+    position:fixed;
+    width:100%;
+    color:white;
+    height:50px;
+    bottom:0%;
+    text-align:center;
+background-color:grey;
 
 }
